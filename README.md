@@ -1,6 +1,6 @@
 # TheDump
 
-TheDump is basically just a code dump—a collection of random projects I’ve made over time.
+TheDump is basically just a code dump - a collection of random projects I’ve made over time.
 
 Most of these were made for fun, boredom, or experimentation. Some are prototypes, some are just weird little ideas I wanted to try out. A lot of them were made with the help of ChatGPT or other tools, but they all represent things I’ve actually built or tinkered with.
 
