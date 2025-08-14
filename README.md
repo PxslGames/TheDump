@@ -7,3 +7,6 @@ Most of these were made for fun, boredom, or experimentation. Some are prototype
 This repo is kind of a nostalgia trip and a way to clean up my GitHub, showing what I’m capable of while also bringing back some old favorites.
 
 ⚠️ Warning: Most projects are not polished or production-ready.
+
+
+THERE IS NOTHING ELSE ADDED HERE, THESE ARE THE RAW PROJECTS FROZEN IN TIME!
